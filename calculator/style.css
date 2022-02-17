@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+    background: black;
+    width: 300px;
+    height: 525px;
+    position: absolute;
+    left: 30%;
+    
+}
+#tela{
+    position: relative;
+    background: none;
+    font-size: 60px;
+    width: 290px;
+    color: gold;
+}
+button{
+    font-size: 70px;
+    width: 67px;
+    vertical-align: top;
+  
+
+}
+.teclado{
+      
+    text-align: left;
+    padding: 10px;
+    padding-left: -10px;
+}
+.ac{
+   font-size: 30px;
+   height: 86px;
+   vertical-align:top ;
+}
+.somar{
+    position: absolute;
+  pxht: 86px;
+    left: 223px;
+}
+
+
+
+
+.zeroUm{
+    position: absolute;
+    top: 430px;
+}
